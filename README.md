@@ -16,4 +16,4 @@ Learning and implementing front end development and server hosting in less than 
 ## What's next for Triad
 Including features such as group predictions and a retail perspective to the application for the small business owner to access and maintain. Our main aim is to help the small business owners not only in well-developed cities/countries but also encourage people in developing and underdeveloped countries. 
 
-## For the data_model please visit (OneDrive) [https://sooners-my.sharepoint.com/:f:/g/personal/sudhi_ou_edu/EgxLCfHyxVxKppiBQsEc6fIBF3_JLM7gbyOG9TyU1fimqQ?e=53NtbN]
+## For the data_model please visit [OneDrive] (https://sooners-my.sharepoint.com/:f:/g/personal/sudhi_ou_edu/EgxLCfHyxVxKppiBQsEc6fIBF3_JLM7gbyOG9TyU1fimqQ?e=53NtbN)
