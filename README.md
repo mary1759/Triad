@@ -1,4 +1,5 @@
-https://devpost.com/software/triad
+Here is the link for dev post of our application : https://devpost.com/software/triad
+
 ## Inspiration
 The project is part of a challenge given by the company Tailwind. The goal was to create an application that caters to small business owners including entrepreneurs. And we did exactly that to help the retailers get to their potential customers even before the customer knows what he wants through targeted ads. 
 
